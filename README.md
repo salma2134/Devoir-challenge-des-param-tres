@@ -4,7 +4,7 @@ Le but de ce devoir est de déterminer de manière pratique combien de paramètr
  Erreurs de Mémoire :
   À un certain point, lorsque tu essaies de passer trop de paramètres , tu pourrais obtenir une erreur liée à l'allocation de mémoire (bad_alloc).
  Limite Pratique :
-  En pratique,cela dépendra toujours des limites spécifiques de ton environnement de compilation et de l'architecture.
+  En pratique,cela dépendra toujours des limites spécifiques de ton environnement de compilation et de l'architecture .
 
 # Documentation et Observation:
 
