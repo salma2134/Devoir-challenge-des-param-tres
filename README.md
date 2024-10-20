@@ -14,6 +14,7 @@ Le but de ce devoir est de déterminer de manière pratique combien de paramètr
 
 
 
+
 # Explication des Résultats
   Limitations Architecturales :
    Chaque machine a une capacité de mémoire et de traitement qui peut limiter le nombre de paramètres qu on peux passer à une fonction.
