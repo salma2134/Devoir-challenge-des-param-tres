@@ -22,3 +22,10 @@ Le but de ce devoir est de déterminer de manière pratique combien de paramètr
   Gestion de la Mémoire :
     Les systèmes d'exploitation gèrent la mémoire et, lorsque la mémoire disponible est épuisée, des erreurs d'allocation se produisent.
      L'utilisation d'un grand nombre de paramètres peut également augmenter la charge de la pile, ce qui peut entraîner des débordements si la limite est dépassée.
+
+![Capture d’écran 2024-10-20 153145](https://github.com/user-attachments/assets/1646ea62-493f-4eee-a57d-cc0b82da60ab)
+
+
+
+
+     
