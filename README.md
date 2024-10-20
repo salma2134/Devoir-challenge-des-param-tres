@@ -8,22 +8,22 @@ Le but de ce devoir est de déterminer de manière pratique combien de paramètr
 
 # Documentation et Observation:
 
+![image](https://github.com/user-attachments/assets/56102263-4356-448d-af09-3df7f767e30d)
 
+![image](https://github.com/user-attachments/assets/5d20b285-35c3-4e87-a3dc-8d1add7f9cad)
 
-
-
-
-
+"Je n'ai pas complété l'exécution du programme jusqu'à rencontrer une erreur, afin d'éviter tout risque de blocage ."
 
 # Explication des Résultats
   Limitations Architecturales :
    Chaque machine a une capacité de mémoire et de traitement qui peut limiter le nombre de paramètres qu on peux passer à une fonction.
-   Sur une machine avec moins de RAM ou avec une architecture 32 bits, on pourrait rencontrer des limites plus strictes par rapport à une machine 64 bits.
+   Sur une machine avec moins de RAM ou avec une architecture 32 bits, on pourrait rencontrer des limites plus strictes par rapport à une 
+    machine 64 bits.
   Gestion de la Mémoire :
     Les systèmes d'exploitation gèrent la mémoire et, lorsque la mémoire disponible est épuisée, des erreurs d'allocation se produisent.
      L'utilisation d'un grand nombre de paramètres peut également augmenter la charge de la pile, ce qui peut entraîner des débordements si la limite est dépassée.
 
-![Capture d’écran 2024-10-20 153145](https://github.com/user-attachments/assets/1646ea62-493f-4eee-a57d-cc0b82da60ab)
+
 
 
 
